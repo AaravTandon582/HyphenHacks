@@ -4,6 +4,7 @@ from app.core.event_bus import EventBus
 from app.agents.school_agent import SchoolAgent
 from app.orchestrator.orchestrator import Orchestrator
 from app.rules.engine import RulesEngine
+from app.rules.rules import rules
 
 async def main():
     event_bus = EventBus()

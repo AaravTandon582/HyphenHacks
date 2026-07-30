@@ -1,4 +1,4 @@
-from typing import Dict, Any
+from typing import List, Dict
 
 class RulesEngine:
     def __init__(self, rules: List[Dict[str, Any]]):
