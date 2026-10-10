@@ -1,0 +1,1547 @@
+CBSA,CBSA Code,Date,AQI,Category,Defining Parameter,Defining Site,Number of Sites Reporting
+"San Francisco-Oakland-Hayward, CA",41860,2025-01-01,14,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-01-04,22,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-01-07,9,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-01-10,24,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-01-13,12,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-01-16,32,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-01-19,26,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-01-22,21,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-01-25,29,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-01-28,17,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-01-31,10,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-02-03,16,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-02-06,14,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-02-09,10,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-02-12,16,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-02-15,27,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-02-18,29,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-02-21,28,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-02-24,8,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-02-27,27,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-03-02,27,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-03-05,23,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-03-08,28,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-03-11,18,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-03-14,32,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-03-17,29,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-03-20,27,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-03-23,19,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-03-26,14,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-03-29,18,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-04-01,17,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-04-07,13,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-04-10,11,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-04-13,48,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-04-19,34,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-04-22,55,Moderate,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-04-25,16,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-04-28,40,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-05-01,50,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-05-04,62,Moderate,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-05-07,42,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-05-10,39,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-05-13,46,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-05-16,53,Moderate,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-05-19,35,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-05-22,39,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-05-25,18,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-05-28,22,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-05-31,61,Moderate,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-06-03,53,Moderate,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-06-06,12,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-06-09,5,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-06-12,53,Moderate,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-06-15,56,Moderate,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-06-21,48,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-06-24,9,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-06-27,49,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-06-30,8,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-07-03,47,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-07-06,19,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-07-12,13,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-07-15,19,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-07-18,7,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-07-21,11,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-07-24,3,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-07-27,12,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-07-30,21,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-08-02,18,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-08-05,33,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-08-08,42,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-08-11,7,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-08-14,22,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-08-17,9,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-08-23,8,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-08-26,23,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-08-29,19,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-09-01,21,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-09-04,6,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-09-07,18,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-09-10,16,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-09-13,20,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-09-16,14,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-09-19,27,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-09-22,38,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-09-25,32,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-09-28,66,Moderate,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-10-07,20,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-10-10,12,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-10-13,14,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-10-16,18,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-10-19,29,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-10-22,41,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-10-25,17,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-10-28,23,Good,PM2.5,06-041-0002,1
+"San Francisco-Oakland-Hayward, CA",41860,2025-10-31,34,Good,PM2.5,06-041-0002,1
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-01,33,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-02,33,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-03,35,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-04,35,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-05,33,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-06,31,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-07,37,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-08,36,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-09,41,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-10,57,Moderate,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-11,37,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-12,37,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-13,36,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-14,35,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-15,35,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-16,39,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-17,62,Moderate,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-18,57,Moderate,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-19,50,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-20,42,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-21,39,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-22,39,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-23,41,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-24,43,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-25,34,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-26,33,Good,Ozone,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-27,33,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-28,36,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-29,32,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-30,34,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-01-31,44,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-02-01,35,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-02-02,32,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-02-03,34,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-02-04,36,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-02-05,34,Good,Ozone,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-02-06,33,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-02-07,35,Good,Ozone,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-02-08,33,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-02-09,36,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-02-10,39,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-02-11,31,Good,Ozone,06-069-0002,2
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-02-12,34,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-02-13,39,Good,Ozone,06-069-0002,2
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-02-14,38,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-02-15,34,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-02-16,36,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-02-17,40,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-02-18,36,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-02-19,38,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-02-20,38,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-02-21,38,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-02-22,41,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-02-23,41,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-02-24,37,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-02-25,43,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-02-26,42,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-02-27,44,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-02-28,39,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-01,40,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-02,39,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-03,36,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-04,40,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-05,38,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-06,39,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-07,37,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-08,41,Good,PM2.5,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-09,45,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-10,46,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-11,44,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-12,42,Good,Ozone,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-13,41,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-14,37,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-15,55,Moderate,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-16,45,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-17,43,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-18,40,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-19,42,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-20,46,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-21,44,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-22,41,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-23,34,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-24,39,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-25,45,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-26,35,Good,Ozone,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-27,43,Good,Ozone,06-069-0002,2
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-28,42,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-29,44,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-30,41,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-03-31,47,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-04-01,37,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-04-02,42,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-04-03,42,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-04-04,44,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-04-05,46,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-04-06,47,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-04-07,33,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-04-08,41,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-04-09,44,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-04-10,46,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-04-11,37,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-04-12,44,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-04-13,47,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-04-14,49,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-04-15,38,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-04-16,42,Good,Ozone,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-04-17,39,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-04-18,41,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-04-19,42,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-04-20,48,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-04-21,47,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-04-22,44,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-04-23,46,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-04-24,44,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-04-25,47,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-04-26,44,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-04-27,38,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-04-28,40,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-04-29,47,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-04-30,38,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-01,40,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-02,43,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-03,37,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-04,52,Moderate,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-05,48,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-06,54,Moderate,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-07,48,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-08,64,Moderate,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-09,50,Good,Ozone,06-069-0002,2
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-10,51,Moderate,Ozone,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-11,43,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-12,43,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-13,40,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-14,39,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-15,44,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-16,50,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-17,40,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-18,48,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-19,43,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-20,49,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-21,71,Moderate,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-22,40,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-23,45,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-24,38,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-25,37,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-26,48,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-27,42,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-28,40,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-29,45,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-30,61,Moderate,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-05-31,50,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-06-01,57,Moderate,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-06-02,53,Moderate,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-06-03,45,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-06-04,48,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-06-05,39,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-06-06,41,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-06-07,41,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-06-08,32,Good,Ozone,06-069-0003,2
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-06-09,37,Good,Ozone,06-069-0003,2
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-06-10,41,Good,Ozone,06-069-0003,2
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-06-11,48,Good,Ozone,06-069-0003,2
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-06-12,56,Moderate,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-06-13,55,Moderate,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-06-14,48,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-06-15,58,Moderate,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-06-16,67,Moderate,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-06-17,41,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-06-18,51,Moderate,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-06-19,52,Moderate,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-06-20,41,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-06-21,40,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-06-22,37,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-06-23,33,Good,PM2.5,06-069-0002,2
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-06-24,35,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-06-25,44,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-06-26,37,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-06-27,45,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-06-28,49,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-06-29,48,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-06-30,50,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-01,64,Moderate,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-02,36,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-03,38,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-04,53,Moderate,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-05,42,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-06,44,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-07,46,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-08,44,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-09,47,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-10,49,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-11,51,Moderate,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-12,43,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-13,36,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-14,41,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-15,30,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-16,37,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-17,40,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-18,36,Good,Ozone,06-069-0003,2
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-19,41,Good,Ozone,06-069-0003,2
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-20,27,Good,Ozone,06-069-0003,2
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-21,26,Good,Ozone,06-069-0003,2
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-22,26,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-23,25,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-24,30,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-25,31,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-26,29,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-27,29,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-28,36,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-29,40,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-30,31,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-07-31,33,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-01,31,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-02,32,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-03,37,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-04,39,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-05,29,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-06,41,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-07,31,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-08,42,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-09,49,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-10,46,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-11,39,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-12,42,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-13,33,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-14,26,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-15,29,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-16,9,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-17,28,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-18,36,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-19,37,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-20,64,Moderate,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-21,46,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-22,56,Moderate,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-23,43,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-24,41,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-25,39,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-26,47,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-27,44,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-28,39,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-29,45,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-30,54,Moderate,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-08-31,58,Moderate,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-09-01,48,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-09-02,38,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-09-03,44,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-09-04,41,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-09-05,44,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-09-06,36,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-09-07,27,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-09-08,26,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-09-09,30,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-09-10,28,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-09-11,33,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-09-12,37,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-09-13,36,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-09-14,34,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-09-15,44,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-09-16,48,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-09-17,58,Moderate,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-09-18,46,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-09-19,41,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-09-20,45,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-09-21,43,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-09-22,44,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-09-23,58,Moderate,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-09-24,44,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-09-25,46,Good,PM2.5,06-069-0002,2
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-09-26,58,Moderate,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-09-27,55,Moderate,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-09-28,38,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-09-29,38,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-09-30,32,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-01,37,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-02,33,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-03,32,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-04,34,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-05,42,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-06,47,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-07,46,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-08,40,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-09,42,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-10,37,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-11,37,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-12,34,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-13,37,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-14,32,Good,Ozone,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-15,32,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-16,34,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-17,43,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-18,45,Good,Ozone,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-19,50,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-20,64,Moderate,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-21,71,Moderate,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-22,31,Good,Ozone,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-23,36,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-24,47,Good,PM2.5,06-069-0002,2
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-25,29,Good,Ozone,06-069-0003,2
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-26,35,Good,Ozone,06-069-0003,2
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-27,32,Good,Ozone,06-069-0003,2
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-28,34,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-29,42,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-30,43,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-10-31,43,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-11-01,44,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-11-02,42,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-11-03,38,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-11-04,39,Good,Ozone,06-069-0003,2
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-11-05,41,Good,Ozone,06-069-0003,2
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-11-06,38,Good,Ozone,06-069-0003,2
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-11-07,33,Good,Ozone,06-069-0003,2
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-11-08,30,Good,Ozone,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-11-09,35,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-11-10,38,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-11-11,36,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-11-12,31,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-11-13,31,Good,Ozone,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-11-14,33,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-11-15,30,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-11-16,35,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-11-17,36,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-11-18,31,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-11-19,29,Good,Ozone,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-11-20,27,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-11-21,31,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-11-22,29,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-11-23,32,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-11-24,42,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-11-25,35,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-11-26,31,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-11-27,36,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-11-28,37,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-11-29,37,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-11-30,31,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-01,26,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-02,30,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-03,23,Good,Ozone,06-069-0002,2
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-04,34,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-05,32,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-06,37,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-07,39,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-08,28,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-09,31,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-10,26,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-11,28,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-12,29,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-13,28,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-14,44,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-15,34,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-16,24,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-17,19,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-18,22,Good,Ozone,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-19,27,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-20,20,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-21,23,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-22,21,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-23,29,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-24,41,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-25,41,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-26,38,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-27,34,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-28,26,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-29,26,Good,Ozone,06-069-0003,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-30,27,Good,PM2.5,06-069-0002,3
+"San Jose-Sunnyvale-Santa Clara, CA",41940,2025-12-31,49,Good,PM2.5,06-069-0002,3
+"Santa Cruz-Watsonville, CA",42100,2025-01-01,43,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-01-02,55,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-01-03,54,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-01-04,33,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-01-05,44,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-01-06,43,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-01-07,36,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-01-08,50,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-01-09,60,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-01-10,62,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-01-11,54,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-01-12,55,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-01-13,60,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-01-14,62,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-01-15,70,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-01-16,67,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-01-17,67,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-01-18,60,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-01-19,67,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-01-20,54,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-01-21,61,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-01-22,62,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-01-23,71,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-01-24,63,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-01-25,63,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-01-26,54,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-01-27,63,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-01-28,67,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-01-29,58,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-01-30,58,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-01-31,57,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-02-01,31,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-02-02,29,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-02-03,32,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-02-04,35,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-02-05,32,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-02-06,32,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-02-07,33,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-02-08,33,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-02-09,48,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-02-10,45,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-02-11,46,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-02-12,31,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-02-13,42,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-02-14,42,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-02-15,45,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-02-16,47,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-02-17,39,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-02-18,33,Good,PM2.5,06-087-0007,1
+"Santa Cruz-Watsonville, CA",42100,2025-02-19,32,Good,Ozone,06-087-0007,1
+"Santa Cruz-Watsonville, CA",42100,2025-02-20,31,Good,Ozone,06-087-0007,1
+"Santa Cruz-Watsonville, CA",42100,2025-02-21,36,Good,PM2.5,06-087-0007,1
+"Santa Cruz-Watsonville, CA",42100,2025-02-22,34,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-02-23,38,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-02-24,29,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-02-25,35,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-02-26,38,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-02-27,37,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-02-28,52,Moderate,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-01,36,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-02,35,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-03,34,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-04,17,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-05,31,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-06,36,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-07,36,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-08,36,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-09,39,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-10,42,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-11,41,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-12,41,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-13,37,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-14,34,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-15,57,Moderate,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-16,46,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-17,42,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-18,33,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-19,36,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-20,41,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-21,36,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-22,36,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-23,31,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-24,36,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-25,36,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-26,37,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-27,37,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-28,38,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-29,36,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-30,39,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-03-31,41,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-04-01,33,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-04-02,39,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-04-03,33,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-04-04,30,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-04-05,34,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-04-06,40,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-04-07,30,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-04-08,34,Good,Ozone,06-087-0007,1
+"Santa Cruz-Watsonville, CA",42100,2025-04-09,32,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-04-10,31,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-04-11,31,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-04-12,42,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-04-13,43,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-04-14,35,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-04-15,40,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-04-16,39,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-04-17,37,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-04-18,32,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-04-19,37,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-04-20,32,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-04-21,38,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-04-22,38,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-04-23,44,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-04-24,37,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-04-25,44,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-04-26,39,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-04-27,32,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-04-28,29,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-04-29,37,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-04-30,37,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-01,40,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-02,32,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-03,34,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-04,51,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-05,55,Moderate,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-06,56,Moderate,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-07,50,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-08,30,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-09,38,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-10,42,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-11,43,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-12,37,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-13,32,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-14,43,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-15,46,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-16,48,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-17,39,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-18,39,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-19,36,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-20,35,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-21,44,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-22,37,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-23,35,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-24,31,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-25,35,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-26,34,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-27,34,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-28,29,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-29,24,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-30,33,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-05-31,49,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-06-01,57,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-06-02,33,Good,Ozone,06-087-0007,1
+"Santa Cruz-Watsonville, CA",42100,2025-06-03,32,Good,Ozone,06-087-0007,1
+"Santa Cruz-Watsonville, CA",42100,2025-06-04,44,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-06-05,34,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-06-06,33,Good,Ozone,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-06-07,28,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-06-08,27,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-06-09,26,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-06-10,29,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-06-11,44,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-06-12,53,Moderate,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-06-13,54,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-06-14,48,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-06-15,49,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-06-16,39,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-06-17,36,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-06-18,39,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-06-19,42,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-06-20,32,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-06-21,31,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-06-22,36,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-06-23,36,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-06-24,27,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-06-25,26,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-06-26,27,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-06-27,39,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-06-28,38,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-06-29,28,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-06-30,29,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-01,25,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-02,19,Good,Ozone,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-03,31,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-04,28,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-05,27,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-06,24,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-07,26,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-08,25,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-09,23,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-10,21,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-11,21,Good,Ozone,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-12,21,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-13,21,Good,Ozone,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-14,20,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-15,24,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-16,24,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-17,25,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-18,29,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-19,25,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-20,22,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-21,19,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-22,16,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-23,25,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-24,25,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-25,20,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-26,20,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-27,19,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-28,27,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-29,25,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-30,20,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-07-31,16,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-01,16,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-02,18,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-03,23,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-04,32,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-05,27,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-06,36,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-07,21,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-08,29,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-09,23,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-10,27,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-11,32,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-12,24,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-13,21,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-14,15,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-15,24,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-16,12,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-17,23,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-18,27,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-19,31,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-20,29,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-21,28,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-22,43,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-23,37,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-24,32,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-25,32,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-26,37,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-27,38,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-28,27,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-29,29,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-30,39,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-08-31,47,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-09-01,40,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-09-02,24,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-09-03,25,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-09-04,25,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-09-05,26,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-09-06,24,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-09-07,19,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-09-08,19,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-09-09,25,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-09-10,24,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-09-11,26,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-09-12,32,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-09-13,25,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-09-14,20,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-09-15,31,Good,Ozone,06-087-0007,1
+"Santa Cruz-Watsonville, CA",42100,2025-09-16,29,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-09-17,31,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-09-18,39,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-09-19,36,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-09-20,32,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-09-21,31,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-09-22,38,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-09-23,43,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-09-24,43,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-09-25,46,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-09-26,55,Moderate,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-09-27,42,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-09-28,34,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-09-29,42,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-09-30,34,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-10-01,32,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-10-02,29,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-10-03,29,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-10-04,32,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-10-05,31,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-10-06,33,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-10-07,41,Good,PM2.5,06-087-0007,1
+"Santa Cruz-Watsonville, CA",42100,2025-10-08,37,Good,PM2.5,06-087-0007,1
+"Santa Cruz-Watsonville, CA",42100,2025-10-09,31,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-10-10,31,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-10-11,33,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-10-12,29,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-10-13,36,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-10-14,32,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-10-15,31,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-10-16,28,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-10-17,34,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-10-18,43,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-10-19,42,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-10-20,47,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-10-21,40,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-10-22,39,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-10-23,33,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-10-24,34,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-10-25,23,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-10-26,29,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-10-27,28,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-10-28,32,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-10-29,43,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-10-30,47,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-10-31,40,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-11-01,34,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-11-02,36,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-11-03,27,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-11-04,32,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-11-05,30,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-11-06,26,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-11-07,28,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-11-08,31,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-11-09,31,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-11-10,35,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-11-11,31,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-11-12,30,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-11-13,35,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-11-14,28,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-11-15,25,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-11-16,35,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-11-17,34,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-11-18,28,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-11-19,35,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-11-20,27,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-11-21,30,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-11-22,33,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-11-23,40,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-11-24,45,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-11-25,37,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-11-26,44,Good,PM2.5,06-087-0007,1
+"Santa Cruz-Watsonville, CA",42100,2025-11-27,36,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-11-28,52,Moderate,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-11-29,50,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-11-30,53,Moderate,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-12-01,48,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-12-02,46,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-12-03,47,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-12-04,40,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-12-05,53,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-12-06,53,Moderate,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-12-07,51,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-12-08,55,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-12-09,55,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-12-10,57,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-12-11,52,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-12-12,53,Moderate,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-12-13,46,Good,PM2.5,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-12-14,42,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-12-15,51,Moderate,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-12-16,40,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-12-17,36,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-12-18,25,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-12-19,38,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-12-20,21,Good,Ozone,06-087-0007,1
+"Santa Cruz-Watsonville, CA",42100,2025-12-21,22,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-12-22,22,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-12-23,32,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-12-24,42,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-12-25,48,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-12-26,42,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-12-27,30,Good,Ozone,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-12-28,27,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-12-29,26,Good,Ozone,06-087-1005,2
+"Santa Cruz-Watsonville, CA",42100,2025-12-30,35,Good,PM2.5,06-087-0007,2
+"Santa Cruz-Watsonville, CA",42100,2025-12-31,36,Good,PM2.5,06-087-0007,2
+"Santa Rosa, CA",42220,2025-01-01,6,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-01-02,8,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-01-03,10,Good,PM10,06-097-0001,2
+"Santa Rosa, CA",42220,2025-01-04,9,Good,PM10,06-097-0001,2
+"Santa Rosa, CA",42220,2025-01-05,9,Good,PM10,06-097-0001,2
+"Santa Rosa, CA",42220,2025-01-06,6,Good,PM10,06-097-0001,2
+"Santa Rosa, CA",42220,2025-01-07,7,Good,PM10,06-097-0001,2
+"Santa Rosa, CA",42220,2025-01-08,14,Good,PM10,06-097-0001,2
+"Santa Rosa, CA",42220,2025-01-09,13,Good,PM10,06-097-0001,2
+"Santa Rosa, CA",42220,2025-01-10,14,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-01-11,13,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-01-12,12,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-01-13,13,Good,PM10,06-097-0001,2
+"Santa Rosa, CA",42220,2025-01-14,17,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-01-15,18,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-01-16,15,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-01-17,16,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-01-18,12,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-01-19,13,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-01-20,14,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-01-21,15,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-01-22,14,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-01-23,17,Good,PM10,06-097-0001,2
+"Santa Rosa, CA",42220,2025-01-24,17,Good,PM10,06-097-0001,2
+"Santa Rosa, CA",42220,2025-01-25,17,Good,PM10,06-097-0001,2
+"Santa Rosa, CA",42220,2025-01-26,39,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-01-27,17,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-01-28,16,Good,PM10,06-097-0001,2
+"Santa Rosa, CA",42220,2025-01-29,14,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-01-30,15,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-01-31,11,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-02-01,6,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-02-02,2,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-02-03,4,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-02-04,2,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-02-05,6,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-02-06,6,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-02-07,5,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-02-08,5,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-02-09,6,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-02-10,8,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-02-11,7,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-02-12,8,Good,PM10,06-097-0001,2
+"Santa Rosa, CA",42220,2025-02-13,9,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-02-14,10,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-02-15,9,Good,PM10,06-097-0001,2
+"Santa Rosa, CA",42220,2025-02-16,6,Good,PM10,06-097-0001,2
+"Santa Rosa, CA",42220,2025-02-17,6,Good,PM10,06-097-0001,2
+"Santa Rosa, CA",42220,2025-02-18,7,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-02-19,6,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-02-20,11,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-02-21,8,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-02-22,8,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-02-23,7,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-02-24,6,Good,PM10,06-097-0001,2
+"Santa Rosa, CA",42220,2025-02-25,8,Good,PM10,06-097-0001,2
+"Santa Rosa, CA",42220,2025-02-26,8,Good,PM10,06-097-0001,2
+"Santa Rosa, CA",42220,2025-02-27,10,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-02-28,17,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-03-01,6,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-03-02,5,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-03-03,6,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-03-04,6,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-03-05,5,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-03-06,6,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-03-07,10,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-03-08,11,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-03-09,9,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-03-10,10,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-03-11,11,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-03-12,5,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-03-13,6,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-03-14,6,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-03-15,22,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-03-16,7,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-03-17,5,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-03-18,7,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-03-19,6,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-03-20,6,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-03-21,7,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-03-22,9,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-03-23,7,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-03-24,11,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-03-25,9,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-03-26,4,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-03-27,10,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-03-28,9,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-03-29,5,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-03-30,7,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-03-31,9,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-04-01,6,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-04-02,6,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-04-03,9,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-04-04,6,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-04-05,8,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-04-06,6,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-04-07,3,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-04-08,6,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-04-09,7,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-04-10,6,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-04-11,14,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-04-12,14,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-04-13,11,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-04-14,11,Good,PM10,06-097-0002,2
+"Santa Rosa, CA",42220,2025-04-15,9,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-04-16,9,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-04-17,8,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-04-18,12,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-04-19,12,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-04-20,9,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-04-21,9,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-04-22,17,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-04-23,20,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-04-24,14,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-04-25,7,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-04-26,6,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-04-27,9,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-04-28,13,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-04-29,19,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-04-30,28,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-05-01,23,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-05-02,7,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-05-03,8,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-05-04,9,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-05-05,13,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-05-06,23,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-05-07,13,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-05-08,11,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-05-09,19,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-05-10,13,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-05-11,12,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-05-12,6,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-05-13,6,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-05-14,13,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-05-15,13,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-05-16,17,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-05-17,9,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-05-18,9,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-05-19,8,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-05-20,11,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-05-21,20,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-05-22,13,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-05-23,15,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-05-24,19,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-05-25,10,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-05-26,6,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-05-27,18,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-05-28,13,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-05-29,10,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-05-30,17,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-05-31,22,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-06-01,31,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-06-02,28,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-06-03,16,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-06-04,16,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-06-05,5,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-06-06,6,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-06-07,5,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-06-08,4,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-06-09,7,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-06-10,10,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-06-11,21,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-06-12,24,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-06-13,24,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-06-14,23,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-06-15,20,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-06-16,19,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-06-17,16,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-06-18,19,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-06-19,22,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-06-20,15,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-06-21,7,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-06-22,11,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-06-23,15,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-06-24,9,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-06-25,12,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-06-26,15,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-06-27,17,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-06-28,13,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-06-29,7,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-06-30,7,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-07-01,8,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-07-02,16,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-07-03,22,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-07-04,16,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-07-05,14,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-07-06,12,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-07-07,7,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-07-08,3,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-07-09,8,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-07-10,16,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-07-11,19,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-07-12,8,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-07-13,6,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-07-14,7,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-07-15,8,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-07-16,5,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-07-17,4,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-07-18,6,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-07-19,4,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-07-20,9,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-07-21,10,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-07-22,5,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-07-23,3,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-07-24,2,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-07-25,4,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-07-26,8,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-07-27,5,Good,PM10,06-097-0002,2
+"Santa Rosa, CA",42220,2025-07-28,12,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-07-29,15,Good,PM10,06-097-0002,2
+"Santa Rosa, CA",42220,2025-07-30,13,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-07-31,12,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-08-01,13,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-08-02,13,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-08-03,14,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-08-04,14,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-08-05,13,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-08-06,12,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-08-07,15,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-08-08,19,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-08-09,11,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-08-10,5,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-08-11,6,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-08-12,6,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-08-13,3,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-08-14,11,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-08-15,15,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-08-16,6,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-08-17,8,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-08-18,11,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-08-19,9,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-08-20,17,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-08-21,18,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-08-22,17,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-08-23,6,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-08-24,4,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-08-25,6,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-08-26,6,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-08-27,8,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-08-28,6,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-08-29,8,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-08-30,14,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-08-31,13,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-09-01,12,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-09-02,11,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-09-03,6,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-09-04,3,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-09-05,6,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-09-06,6,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-09-07,5,Good,PM10,06-097-0002,2
+"Santa Rosa, CA",42220,2025-09-08,4,Good,PM10,06-097-0002,2
+"Santa Rosa, CA",42220,2025-09-09,1,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-09-10,6,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-09-11,7,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-09-12,8,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-09-13,10,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-09-14,5,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-09-15,14,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-09-16,9,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-09-17,12,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-09-18,15,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-09-19,7,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-09-20,11,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-09-21,9,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-09-22,9,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-09-23,11,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-09-24,14,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-09-25,10,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-09-26,19,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-09-27,22,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-09-28,22,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-09-29,8,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-09-30,2,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-10-01,2,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-10-02,6,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-10-03,8,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-10-04,8,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-10-05,5,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-10-06,6,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-10-07,6,Good,PM10,06-097-3002,2
+"Santa Rosa, CA",42220,2025-10-08,7,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-10-09,7,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-10-10,5,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-10-11,6,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-10-12,5,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-10-13,6,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-10-14,5,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-10-15,6,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-10-16,7,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-10-17,7,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-10-18,17,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-10-19,9,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-10-20,6,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-10-21,11,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-10-22,10,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-10-23,11,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-10-24,7,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-10-25,8,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-10-26,6,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-10-27,5,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-10-28,7,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-10-29,11,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-10-30,9,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-10-31,11,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-11-01,12,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-11-02,11,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-11-03,7,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-11-04,6,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-11-05,4,Good,PM10,06-097-0001,2
+"Santa Rosa, CA",42220,2025-11-06,6,Good,PM10,06-097-0002,2
+"Santa Rosa, CA",42220,2025-11-07,5,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-11-08,8,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-11-09,10,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-11-10,13,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-11-11,12,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-11-12,8,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-11-13,3,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-11-14,6,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-11-15,8,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-11-16,3,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-11-17,4,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-11-18,7,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-11-19,11,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-11-20,5,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-11-21,8,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-11-22,9,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-11-23,7,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-11-24,7,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-11-25,7,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-11-26,10,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-11-27,9,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-11-28,6,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-11-29,4,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-11-30,4,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-12-01,10,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-12-02,12,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-12-03,8,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-12-04,13,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-12-05,17,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-12-06,12,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-12-07,6,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-12-08,8,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-12-09,8,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-12-10,10,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-12-11,10,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-12-12,13,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-12-13,11,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-12-14,9,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-12-15,13,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-12-16,15,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-12-17,6,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-12-18,6,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-12-19,7,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-12-20,1,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-12-21,0,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-12-22,2,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-12-23,3,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-12-24,6,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-12-25,7,Good,PM10,06-097-3002,3
+"Santa Rosa, CA",42220,2025-12-26,9,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-12-27,6,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-12-28,6,Good,PM10,06-097-0002,3
+"Santa Rosa, CA",42220,2025-12-29,13,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-12-30,11,Good,PM10,06-097-0001,3
+"Santa Rosa, CA",42220,2025-12-31,13,Good,PM10,06-097-3002,3
+"Vallejo-Fairfield, CA",46700,2025-01-01,15,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-01-02,25,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-01-03,32,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-01-04,24,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-01-05,26,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-01-06,33,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-01-07,34,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-01-08,33,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-01-09,37,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-01-10,32,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-01-11,39,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-01-12,36,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-01-13,34,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-01-14,27,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-01-15,33,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-01-16,35,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-01-17,28,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-01-18,29,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-01-19,28,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-01-20,38,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-01-21,29,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-01-22,31,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-01-23,31,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-01-24,33,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-01-25,32,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-01-26,34,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-01-27,38,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-01-28,27,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-01-29,26,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-01-30,29,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-01-31,19,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-02-01,27,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-02-02,29,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-02-03,31,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-02-04,34,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-02-05,34,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-02-06,36,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-02-07,36,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-02-08,35,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-02-09,37,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-02-10,35,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-02-11,27,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-02-12,34,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-02-13,40,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-02-14,35,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-02-15,28,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-02-16,31,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-02-17,23,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-02-18,29,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-02-19,32,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-02-20,37,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-02-21,34,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-02-22,38,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-02-23,28,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-02-24,30,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-02-25,36,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-02-26,37,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-02-27,35,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-02-28,38,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-03-01,39,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-03-02,38,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-03-03,33,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-03-04,34,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-03-05,37,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-03-06,36,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-03-07,38,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-03-08,35,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-03-09,40,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-03-10,45,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-03-11,41,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-03-12,39,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-03-13,38,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-03-14,36,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-03-15,39,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-03-16,40,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-03-17,41,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-03-18,37,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-03-19,38,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-03-20,39,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-03-21,34,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-03-22,32,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-03-23,29,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-03-24,38,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-03-25,38,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-03-26,31,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-03-27,39,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-03-28,32,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-03-29,35,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-03-30,37,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-03-31,36,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-04-01,36,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-04-02,33,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-04-03,32,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-04-05,38,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-04-06,35,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-04-07,31,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-04-08,40,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-04-09,37,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-04-10,28,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-04-11,31,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-04-12,33,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-04-13,42,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-04-15,33,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-04-16,31,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-04-17,31,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-04-18,45,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-04-19,32,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-04-20,32,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-04-21,42,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-04-22,34,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-04-23,32,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-04-24,37,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-04-25,40,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-04-26,37,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-04-27,30,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-04-28,32,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-04-29,35,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-04-30,42,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-05-01,37,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-05-02,28,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-05-03,29,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-05-04,48,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-05-05,51,Moderate,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-05-06,50,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-05-07,36,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-05-08,41,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-05-09,46,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-05-10,44,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-05-11,42,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-05-13,34,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-05-14,34,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-05-15,35,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-05-16,39,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-05-17,34,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-05-18,51,Moderate,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-05-19,31,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-05-20,43,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-05-21,42,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-05-22,36,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-05-23,35,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-05-24,34,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-05-25,33,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-05-26,31,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-05-27,38,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-05-28,28,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-05-29,41,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-05-30,46,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-05-31,38,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-06-01,29,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-06-02,38,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-06-03,34,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-06-04,35,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-06-05,28,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-06-06,34,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-06-07,31,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-06-08,27,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-06-09,30,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-06-10,28,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-06-11,32,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-06-12,36,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-06-13,31,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-06-14,36,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-06-15,38,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-06-16,32,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-06-17,44,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-06-18,43,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-06-19,31,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-06-20,32,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-06-21,32,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-06-22,34,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-06-23,36,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-06-24,30,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-06-25,36,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-06-26,37,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-06-27,48,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-06-28,44,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-06-29,34,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-06-30,33,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-07-01,44,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-07-02,34,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-07-03,21,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-07-04,31,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-07-05,35,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-07-06,47,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-07-07,37,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-07-08,34,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-07-09,38,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-07-10,42,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-07-11,49,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-07-12,36,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-07-13,31,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-07-14,37,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-07-15,27,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-07-16,26,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-07-17,33,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-07-18,34,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-07-19,31,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-07-20,26,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-07-21,24,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-07-22,20,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-07-23,27,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-07-24,24,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-07-25,19,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-07-26,18,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-07-27,20,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-07-28,25,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-07-29,29,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-07-30,25,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-07-31,36,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-08-01,31,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-08-02,28,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-08-03,23,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-08-04,26,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-08-05,29,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-08-06,37,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-08-07,40,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-08-08,44,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-08-09,40,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-08-10,39,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-08-11,30,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-08-12,29,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-08-13,21,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-08-14,26,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-08-15,30,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-08-16,16,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-08-17,21,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-08-18,31,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-08-19,35,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-08-20,43,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-08-21,38,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-08-22,49,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-08-23,37,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-08-24,33,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-08-26,31,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-08-27,33,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-08-28,39,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-08-29,31,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-08-30,43,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-08-31,36,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-09-01,43,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-09-02,35,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-09-03,34,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-09-04,29,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-09-06,28,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-09-07,27,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-09-08,19,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-09-09,23,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-09-10,24,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-09-11,32,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-09-12,30,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-09-13,27,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-09-14,25,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-09-15,42,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-09-16,61,Moderate,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-09-17,50,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-09-18,34,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-09-19,45,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-09-20,39,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-09-21,33,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-09-22,41,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-09-23,44,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-09-24,36,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-09-25,33,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-09-26,42,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-09-27,38,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-09-28,33,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-09-29,33,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-09-30,37,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-10-01,33,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-10-02,26,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-10-03,32,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-10-04,31,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-10-05,34,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-10-06,39,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-10-07,43,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-10-08,36,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-10-09,38,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-10-10,35,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-10-11,32,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-10-12,32,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-10-15,28,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-10-16,27,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-10-17,35,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-10-18,44,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-10-19,44,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-10-20,35,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-10-21,35,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-10-22,9,Good,PM10,06-095-3001,1
+"Vallejo-Fairfield, CA",46700,2025-10-23,34,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-10-24,28,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-10-25,29,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-10-26,31,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-10-27,31,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-10-28,31,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-10-29,28,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-10-30,28,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-10-31,29,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-11-01,34,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-11-02,32,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-11-03,31,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-11-04,26,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-11-05,29,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-11-06,31,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-11-07,26,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-11-08,27,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-11-09,28,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-11-10,23,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-11-11,26,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-11-12,30,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-11-13,31,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-11-14,29,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-11-15,30,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-11-16,32,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-11-19,28,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-11-20,24,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-11-21,22,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-11-22,17,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-11-23,17,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-11-24,20,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-11-25,15,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-11-26,14,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-11-27,14,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-11-28,14,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-11-29,14,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-11-30,11,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-12-01,16,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-12-02,21,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-12-03,32,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-12-04,16,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-12-05,12,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-12-06,10,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-12-07,8,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-12-08,8,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-12-09,7,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-12-10,6,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-12-11,8,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-12-12,9,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-12-13,8,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-12-14,8,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-12-15,6,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-12-16,4,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-12-17,7,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-12-18,17,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-12-19,12,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-12-20,9,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-12-21,18,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-12-22,16,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-12-23,24,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-12-24,34,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-12-25,35,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-12-26,33,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-12-27,24,Good,Ozone,06-095-3003,2
+"Vallejo-Fairfield, CA",46700,2025-12-28,26,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-12-29,13,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-12-30,10,Good,Ozone,06-095-3003,1
+"Vallejo-Fairfield, CA",46700,2025-12-31,13,Good,Ozone,06-095-3003,1
