@@ -1,9 +1,12 @@
+import { Suspense, lazy } from "react";
 import { usePath } from "./router.jsx";
 import Landing from "./Landing.jsx";
 import Workspace from "./Workspace.jsx";
-import Constellation from "./Constellation.jsx";
 import CardNav from "./CardNav.jsx";
 import logo from "./logo.svg";
+
+// Three.js pulls in ~1MB — split it out so the homepage never pays for it
+const Constellation = lazy(() => import("./Constellation.jsx"));
 
 const navItems = [
   {
@@ -27,7 +30,13 @@ export default function App() {
   const path = usePath();
 
   if (path === "/workspace") return <Workspace />;
-  if (path === "/constellation") return <Constellation />;
+  if (path === "/constellation") {
+    return (
+      <Suspense fallback={<div className="workspace-root" />}>
+        <Constellation />
+      </Suspense>
+    );
+  }
 
   return (
     <>

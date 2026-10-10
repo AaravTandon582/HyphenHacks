@@ -138,7 +138,6 @@ export default function Workspace() {
 
       <main className="workspace-main">
         <div className="workspace-intro">
-          <p className="workspace-eyebrow">New constellation</p>
           <h1>Map a dataset into its own sky</h1>
           <p className="workspace-sub">
             Upload a CSV or start from a sample below. Choose the numerical features that
@@ -152,16 +151,16 @@ export default function Workspace() {
         <section aria-label="Import dataset" className="import-section">
           <BorderGlow
             className="dropzone-glow"
-            backgroundColor="#151C30"
-            glowColor="103 232 249"
-            borderRadius={16}
-            glowRadius={18}
+            backgroundColor="#0a0a0a"
+            glowColor="255 255 255"
+            borderRadius={12}
+            glowRadius={16}
             edgeSensitivity={35}
-            glowIntensity={0.65}
-            coneSpread={25}
+            glowIntensity={0.5}
+            coneSpread={22}
             animated={false}
-            fillOpacity={0.12}
-            colors={["#67E8F9", "#A78BFA", "#3B5B8A"]}
+            fillOpacity={0.08}
+            colors={["#FFFFFF", "#D1D5DB", "#6B7280"]}
             active={isDragging}
           >
             <div
@@ -301,7 +300,7 @@ export default function Workspace() {
 
                 <button
                   type="button"
-                  className="btn-primary"
+                  className="button button-inline"
                   disabled={!canGenerate}
                   onClick={handleGenerate}
                 >
