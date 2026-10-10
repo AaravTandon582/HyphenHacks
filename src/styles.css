@@ -1,0 +1,672 @@
+:root {
+  --navy: #000000;
+  --text: #ffffff;
+  --muted: #9ca3af;
+  --accent: #ffffff;
+  --line: #2a2a2a;
+
+  /* one scale, used at different steps to rank the stack rather than space it evenly */
+  --step-1: clamp(10px, 1.1vw, 14px);
+  --step-2: clamp(18px, 2.2vw, 26px);
+  --step-3: clamp(20px, 2.4vw, 28px);
+  --step-4: clamp(42px, 5.6vw, 68px);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--navy);
+  color: var(--text);
+  font-family: "Inter", "Helvetica Neue", Helvetica, Arial, system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.page {
+  position: relative;
+  /* above the background layers: rays (0), stars (1) */
+  z-index: 3;
+  /* rays run behind the copy, so every line gets a dark halo */
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.85), 0 0 28px rgba(0, 0, 0, 0.7);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  /* no gap: each relationship below gets its own step */
+  /* the nav bar is visual mass at the top, so the block is weighted down to
+     sit optically centred rather than geometrically */
+  padding: clamp(128px, 16vh, 168px) clamp(20px, 5vw, 32px) clamp(72px, 9vh, 96px);
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+h1 {
+  margin: 0;
+  font-size: clamp(2rem, 6vw, 3.25rem);
+  line-height: 1.12;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+}
+
+.lede {
+  /* 34rem is what breaks this copy into two near-equal centred lines */
+  margin: var(--step-3) auto 0;
+  max-width: 34rem;
+  font-size: 1.0625rem;
+  line-height: 1.6;
+  color: var(--muted);
+}
+
+.button {
+  /* the widest step: it separates the copy block from the action pair */
+  margin-top: var(--step-4);
+  display: inline-block;
+  padding: 14px clamp(28px, 4vw, 36px);
+  border-radius: 6px;
+  background: var(--accent);
+  color: var(--navy);
+  font-size: 1rem;
+  font-weight: 600;
+  text-decoration: none;
+  text-shadow: none;
+  transition: background 0.15s ease;
+}
+
+.button:hover {
+  background: #e5e5e5;
+}
+
+.quiet-link {
+  /* tight, so the link reads as part of the button's group */
+  margin-top: var(--step-1);
+  font-size: 0.9375rem;
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 2px;
+}
+
+.quiet-link:hover {
+  color: var(--text);
+  border-bottom-color: var(--muted);
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+
+.backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+}
+
+.starfield {
+  position: fixed;
+  inset: 0;
+  z-index: 1;
+  display: block;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+
+.wordmark {
+  width: 100%;
+  /* canvas reads its box for layout and never scales the font up, so 150px
+     is a ceiling here and narrow screens just get a smaller wordmark */
+  /* sized so TechText's fit stays height-bound: a taller box is width-bound and
+     banks the surplus as dead space the -17% below can't reach */
+  --wordmark-height: clamp(96px, 14vw, 164px);
+  height: var(--wordmark-height);
+  /* TechText fits its text into 66% of the box and centres it, so ~17% of the
+     height is dead space above the ink; claw back only the top half, so the
+     lede's own margin-top (--step-3) is the real, full gap below the ink */
+  margin-top: calc(var(--wordmark-height) * -0.17);
+  /* text-shadow can't reach pixels inside a canvas; drop-shadow traces the
+     drawn letters instead */
+  filter: drop-shadow(0 0 32px rgba(0, 0, 0, 0.95));
+}
+
+.blur-text {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.blur-text-segment {
+  display: inline-block;
+  will-change: transform, filter, opacity;
+}
+
+
+/* ===================== workspace & constellation views =====================
+   Separate token set, scoped under .workspace-root — the landing page keeps
+   its own black/white :root palette untouched; these screens use the
+   navy/violet/cyan identity the data views were designed around. Shared with
+   the landing page: the Inter type scale, the Starfield backdrop, and the
+   compact TechText wordmark — that's what ties the two together. */
+.workspace-root {
+  --w-navy: #0b1020;
+  --w-slate: #151c30;
+  --w-violet: #a78bfa;
+  --w-cyan: #67e8f9;
+  --w-text: #e5e7eb;
+  --w-muted: #8a94ad;
+  --w-line: rgba(229, 231, 235, 0.12);
+  --w-danger: #fca5a5;
+
+  position: relative;
+  min-height: 100vh;
+  background: var(--w-navy);
+  color: var(--w-text);
+}
+
+/* entrance: content rises in on mount so a route change reads as "arriving"
+   rather than a hard cut — background/starfield stay put, unanimated, so
+   there's no flash of empty space before the fade */
+@media (prefers-reduced-motion: no-preference) {
+  .workspace-intro {
+    animation: workspace-rise 0.32s ease-out both;
+  }
+  .import-section {
+    animation: workspace-rise 0.36s ease-out 0.07s both;
+  }
+}
+
+@keyframes workspace-rise {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ---------- top bar ---------- */
+.workspace-topbar {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 10px 24px;
+  background: rgba(21, 28, 48, 0.88);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--w-line);
+}
+
+.workspace-wordmark {
+  display: block;
+  width: 150px;
+  height: 28px;
+}
+
+.workspace-mode {
+  font-size: 0.6875rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--w-violet);
+  padding: 3px 9px;
+  border: 1px solid rgba(167, 139, 250, 0.3);
+  border-radius: 100px;
+}
+
+.workspace-crumb {
+  color: var(--w-muted);
+  font-size: 0.8125rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.workspace-home-link {
+  margin-left: auto;
+  flex: none;
+  font-size: 0.8125rem;
+  color: var(--w-muted);
+  text-decoration: none;
+}
+
+.workspace-home-link:hover {
+  color: var(--w-cyan);
+}
+
+/* ---------- main layout ---------- */
+.workspace-main {
+  position: relative;
+  z-index: 2;
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 56px 24px 96px;
+}
+
+.workspace-intro {
+  max-width: 42rem;
+}
+
+.workspace-eyebrow {
+  margin: 0 0 10px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--w-cyan);
+}
+
+.workspace-intro h1 {
+  margin: 0 0 12px;
+  font-size: clamp(1.625rem, 3.2vw, 2.25rem);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  line-height: 1.15;
+}
+
+.workspace-sub {
+  margin: 0;
+  max-width: 40rem;
+  color: var(--w-muted);
+  line-height: 1.65;
+  font-size: 0.9375rem;
+}
+
+/* ---------- import ---------- */
+.import-section {
+  margin-top: 36px;
+}
+
+.dropzone-glow {
+  cursor: pointer;
+}
+
+.dropzone {
+  padding: 44px 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+}
+
+.dropzone-icon {
+  width: 30px;
+  height: 30px;
+  margin: 0 auto 14px;
+  stroke: var(--w-cyan);
+  fill: none;
+  stroke-width: 1.4;
+  opacity: 0.8;
+}
+
+.dropzone-icon circle {
+  stroke: rgba(103, 232, 249, 0.35);
+}
+
+.dropzone:hover .dropzone-icon,
+.dropzone.dragging .dropzone-icon {
+  opacity: 1;
+}
+
+.dropzone-title {
+  margin: 0 0 6px;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+}
+
+.sample-row {
+  margin-top: 16px;
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 4px 18px;
+  padding-top: 14px;
+  border-top: 1px solid var(--w-line);
+}
+
+.sample-row-label {
+  font-size: 0.8125rem;
+  color: var(--w-muted);
+}
+
+.sample-chip {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 8px;
+  background: none;
+  border: none;
+  padding: 3px 2px;
+  font: inherit;
+  color: var(--w-text);
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.sample-chip:hover {
+  color: var(--w-cyan);
+}
+
+.sample-chip:hover .sample-chip-desc {
+  color: var(--w-text);
+}
+
+.sample-chip-label {
+  font-weight: 600;
+  font-size: 0.875rem;
+  text-decoration: underline;
+  text-decoration-color: var(--w-line);
+  text-underline-offset: 3px;
+}
+
+.sample-chip-desc {
+  font-size: 0.8125rem;
+  color: var(--w-muted);
+}
+
+/* ---------- status ---------- */
+.status-box {
+  margin-top: 20px;
+  padding: 10px 14px;
+  border-left: 2px solid var(--w-line);
+  font-size: 0.875rem;
+  color: var(--w-muted);
+}
+
+.status-box.busy {
+  color: var(--w-cyan);
+  border-left-color: var(--w-cyan);
+}
+
+.status-box.error {
+  color: var(--w-danger);
+  border-left-color: var(--w-danger);
+}
+
+.status-box.ready {
+  color: var(--w-text);
+  border-left-color: var(--w-violet);
+}
+
+/* ---------- dataset preview + config ---------- */
+.dataset-section {
+  margin-top: 40px;
+}
+
+.dataset-meta {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.dataset-meta h2 {
+  margin: 0;
+  font-size: 1.0625rem;
+  font-weight: 600;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.dataset-stats {
+  flex: none;
+  font-size: 0.8125rem;
+  color: var(--w-muted);
+}
+
+.preview-table-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--w-line);
+  border-radius: 8px;
+}
+
+.preview-table-wrap table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.8125rem;
+}
+
+.preview-table-wrap th,
+.preview-table-wrap td {
+  padding: 9px 14px;
+  text-align: left;
+  white-space: nowrap;
+  border-bottom: 1px solid var(--w-line);
+}
+
+.preview-table-wrap tr:last-child td {
+  border-bottom: none;
+}
+
+.preview-table-wrap th {
+  font-weight: 600;
+  color: var(--w-text);
+}
+
+.col-tag {
+  display: inline-block;
+  margin-left: 8px;
+  font-size: 0.625rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--w-muted);
+}
+
+.col-tag.numeric {
+  color: var(--w-cyan);
+}
+
+.hint {
+  margin: 8px 2px 0;
+  font-size: 0.8125rem;
+  color: var(--w-muted);
+}
+
+.hint.warn {
+  color: var(--w-danger);
+}
+
+.generate-row {
+  margin-top: 24px;
+  padding-top: 20px;
+  border-top: 1px solid var(--w-line);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 24px;
+}
+
+.field-group {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  flex: 1 1 260px;
+}
+
+.field-group-compact {
+  flex: none;
+}
+
+.field-label {
+  margin: 0;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: var(--w-muted);
+}
+
+.column-picker {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 18px;
+}
+
+.column-option {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 0.875rem;
+  color: var(--w-text);
+  cursor: pointer;
+  accent-color: var(--w-cyan);
+}
+
+.number-input {
+  width: 80px;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid var(--w-line);
+  border-radius: 6px;
+  color: var(--w-text);
+  padding: 8px 10px;
+  font-size: 0.9375rem;
+}
+
+.number-input:focus-visible {
+  outline: 2px solid var(--w-cyan);
+  outline-offset: 1px;
+}
+
+.btn-primary {
+  background: var(--w-cyan);
+  color: #06202a;
+  border: none;
+  border-radius: 6px;
+  padding: 11px 24px;
+  font-size: 0.9375rem;
+  font-weight: 600;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background 0.15s ease, opacity 0.15s ease;
+}
+
+.btn-primary:hover:not(:disabled) {
+  background: #8ff0ff;
+}
+
+.btn-primary:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.btn-primary-static {
+  display: inline-block;
+  margin-top: 28px;
+}
+
+/* ---------- constellation result ---------- */
+.constellation-canvas-wrap {
+  margin-top: 28px;
+  height: min(58vh, 500px);
+  border: 1px solid var(--w-line);
+  border-radius: 10px;
+  background: radial-gradient(circle at 50% 35%, rgba(167, 139, 250, 0.06), transparent 60%);
+  overflow: hidden;
+}
+
+.constellation-canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.cluster-legend {
+  margin-top: 16px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 18px;
+}
+
+.legend-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 0.8125rem;
+  color: var(--w-muted);
+}
+
+.legend-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.constellation-actions {
+  margin-top: 26px;
+  display: flex;
+  gap: 22px;
+  align-items: center;
+}
+
+.link-muted {
+  background: none;
+  border: none;
+  padding: 0;
+  font: inherit;
+  font-size: 0.875rem;
+  color: var(--w-muted);
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.link-muted:hover {
+  color: var(--w-cyan);
+}
+
+.workspace-footnote {
+  margin-top: 32px;
+  padding-top: 16px;
+  border-top: 1px solid var(--w-line);
+}
+
+@media (max-width: 640px) {
+  .workspace-main {
+    padding: 40px 16px 72px;
+  }
+  .dropzone {
+    padding: 32px 16px;
+  }
+  .workspace-topbar {
+    padding: 10px 16px;
+    gap: 10px;
+  }
+  .workspace-mode {
+    display: none;
+  }
+  .generate-row {
+    gap: 18px;
+  }
+  .btn-primary {
+    width: 100%;
+  }
+  .sample-row {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+  .sample-chip {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2px;
+  }
+}
