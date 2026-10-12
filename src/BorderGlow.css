@@ -1,0 +1,96 @@
+/* lets the browser tween --glow-x/--glow-y/--glow-proximity smoothly instead
+   of snapping at the keyframe midpoint; unsupported browsers just keep the
+   static (pointer-only) look, which is already the default experience */
+@property --glow-x {
+  syntax: "<percentage>";
+  inherits: true;
+  initial-value: 50%;
+}
+@property --glow-y {
+  syntax: "<percentage>";
+  inherits: true;
+  initial-value: 0%;
+}
+@property --glow-proximity {
+  syntax: "<number>";
+  inherits: true;
+  initial-value: 0;
+}
+
+.border-glow {
+  --glow-x: 50%;
+  --glow-y: 0%;
+  --glow-proximity: 0;
+  position: relative;
+  border-radius: var(--glow-radius, 16px);
+  background: var(--glow-bg, #151c30);
+  isolation: isolate;
+}
+
+.border-glow-content {
+  position: relative;
+  z-index: 1;
+}
+
+/* soft interior wash, centred on the pointer — never intercepts clicks */
+.border-glow-fill {
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  pointer-events: none;
+  background: radial-gradient(
+    60% 60% at var(--glow-x) var(--glow-y),
+    var(--glow-c1),
+    var(--glow-c2) 55%,
+    transparent 100%
+  );
+  opacity: calc(var(--glow-fill-opacity, 0.12) * (0.35 + 0.65 * var(--glow-proximity)));
+  transition: opacity 0.25s ease;
+}
+
+/* the ring itself: a gradient drawn only in a thin border-width band via the
+   mask-composite "exclude" trick, so it reads as an outline, not a fill */
+.border-glow-ring {
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  padding: 1.5px;
+  pointer-events: none;
+  background: radial-gradient(
+    var(--glow-cone, 25%) var(--glow-cone, 25%) at var(--glow-x) var(--glow-y),
+    var(--glow-c1),
+    var(--glow-c2) 55%,
+    var(--glow-c3) 85%,
+    transparent 100%
+  );
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+  mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  mask-composite: exclude;
+  opacity: calc(var(--glow-intensity, 0.65) * var(--glow-proximity));
+  box-shadow: 0 0 var(--glow-blur, 18px) rgb(var(--glow-color, 103 232 249) / calc(var(--glow-proximity) * 0.55));
+  transition: opacity 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* idle drift for animated=true — off by default; a slow, gentle orbit, not
+   a shimmer loop, and skipped entirely under reduced motion */
+@media (prefers-reduced-motion: no-preference) {
+  .border-glow-animated .border-glow-fill,
+  .border-glow-animated .border-glow-ring {
+    animation: border-glow-drift 9s ease-in-out infinite;
+  }
+}
+
+@keyframes border-glow-drift {
+  0%,
+  100% {
+    --glow-x: 15%;
+    --glow-y: 10%;
+    --glow-proximity: 0.5;
+  }
+  50% {
+    --glow-x: 85%;
+    --glow-y: 90%;
+    --glow-proximity: 0.5;
+  }
+}
