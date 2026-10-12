@@ -8,6 +8,7 @@ import ConstellationScene from "./ConstellationScene.jsx";
 import SceneManagerPanel from "./SceneManagerPanel.jsx";
 import ClusterOverview from "./ClusterOverview.jsx";
 import FeatureComparison from "./FeatureComparison.jsx";
+import NextSteps from "./NextSteps.jsx";
 
 const reducedMotion =
   typeof window !== "undefined" && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
@@ -65,7 +66,7 @@ export default function Constellation() {
 
   if (!result || !sceneData) return <EmptyConstellation />;
 
-  const { points, clusters, lineIndexPairs } = sceneData;
+  const { points, clusters, lineIndexPairs, recommendations } = sceneData;
   const clusterSizes = clusters.map(c => c.count);
 
   const focusCluster = id => {
@@ -169,6 +170,13 @@ export default function Constellation() {
             <span>rows per cluster</span>
           </div>
         </div>
+
+        <NextSteps
+          recommendations={recommendations}
+          points={points}
+          onFocusCluster={focusCluster}
+          onSelectAndFocus={selectAndFocus}
+        />
 
         <section
           ref={shellRef}

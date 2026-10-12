@@ -8,9 +8,9 @@ import TechText from "./TechText.jsx";
 export default function WorkspaceTopBar({ crumb }) {
   return (
     <header className="workspace-topbar">
-      <Link to="/" className="workspace-wordmark" aria-label="Constellation home">
+      <Link to="/" className="workspace-wordmark" aria-label="Asterism home">
         <TechText
-          text="Constellation"
+          text="Asterism"
           fontWeight={600}
           fontSize={40}
           color="#FFFFFF"

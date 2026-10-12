@@ -39,8 +39,8 @@ export default function ClusterOverview({
         />
         <p className="hint">
           X/Y come from the pipeline's own 2D projection (gradient descent fit to the selected
-          features); edges connect each cluster's own nearest neighbors (Delaunay, computed
-          within that cluster only). Position shows grouping, not a measured real-world quantity.
+          features); edges are a Delaunay triangulation over every point, so they can connect
+          across clusters. Position shows grouping, not a measured real-world quantity.
         </p>
       </div>
 

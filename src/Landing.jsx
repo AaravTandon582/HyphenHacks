@@ -32,7 +32,7 @@ export default function Landing() {
       <main className="page">
         <h1 className="wordmark">
           <TechText
-            text="Constellation"
+            text="Asterism"
             fontWeight={600}
             fontSize={150}
             color="#FFFFFF"

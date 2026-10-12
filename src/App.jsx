@@ -19,7 +19,7 @@ const navItems = [
     ],
   },
   {
-    label: "Constellation",
+    label: "Asterism",
     bgColor: "#1c1c1c",
     textColor: "#ffffff",
     links: [{ label: "Home", href: "/", ariaLabel: "Back to the landing page" }],
@@ -42,7 +42,7 @@ export default function App() {
     <>
       <CardNav
         logo={logo}
-        logoAlt="Constellation"
+        logoAlt="Asterism"
         items={navItems}
         baseColor="#0a0a0a"
         menuColor="#ffffff"

@@ -765,6 +765,97 @@ h1 {
   border-radius: 0.5rem;
 }
 
+/* ---------- next steps ---------- */
+.next-steps {
+  margin-top: 20px;
+  border: 1px solid var(--line);
+  border-radius: 0.75rem;
+  background: rgba(255, 255, 255, 0.015);
+  overflow: hidden;
+}
+
+.next-steps-summary {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  padding: 14px 18px;
+  font-size: 0.9375rem;
+  font-weight: 600;
+  cursor: pointer;
+  list-style: none;
+}
+
+.next-steps-summary::-webkit-details-marker {
+  display: none;
+}
+
+.next-steps-body {
+  padding: 0 18px 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.next-step-card {
+  padding: 14px 16px;
+  border: 1px solid var(--line);
+  border-radius: 0.5rem;
+}
+
+.next-step-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+
+.next-step-tag {
+  font-size: 0.6875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 2px 8px;
+}
+
+.next-step-confidence {
+  font-size: 0.6875rem;
+  padding: 2px 8px;
+  border-radius: 999px;
+}
+
+.next-step-confidence.observed {
+  color: var(--navy);
+  background: var(--text);
+}
+
+.next-step-confidence.hypothesis {
+  color: var(--muted);
+  border: 1px dashed var(--line);
+}
+
+.next-step-finding {
+  margin: 0 0 10px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.next-step-label {
+  margin: 10px 0 2px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.next-step-footer {
+  display: flex;
+  gap: 8px;
+  margin-top: 12px;
+}
+
 /* ---------- dataset summary ---------- */
 .dataset-summary-strip {
   display: flex;

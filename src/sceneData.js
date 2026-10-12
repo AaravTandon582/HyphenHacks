@@ -211,5 +211,5 @@ export function buildSceneData(result, dataset) {
 
   const clusters = clusterIds.map(id => regions.get(id));
 
-  return { points, clusters, regions, idColumn, lineIndexPairs };
+  return { points, clusters, regions, idColumn, lineIndexPairs, recommendations: result.recommendations ?? [] };
 }
