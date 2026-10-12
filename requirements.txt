@@ -1,0 +1,6 @@
+Flask==3.1.3
+flask-cors==6.0.5
+numpy==2.5.3
+pandas==3.0.6
+scipy==1.18.1
+# openai  # optional: only needed if OPENAI_API_KEY is set for live story generation

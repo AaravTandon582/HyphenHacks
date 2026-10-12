@@ -1,0 +1,24 @@
+{
+  "name": "constellation",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@react-three/drei": "^10.7.9",
+    "@react-three/fiber": "^9.8.1",
+    "@vitejs/plugin-react": "latest",
+    "gsap": "^3.15.0",
+    "motion": "^14.1.0",
+    "ogl": "^1.0.11",
+    "papaparse": "^5.7.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "three": "^0.186.1",
+    "vite": "latest"
+  }
+}
